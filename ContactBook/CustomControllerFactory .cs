@@ -12,7 +12,7 @@ namespace ContactBook
         public IController CreateController(System.Web.Routing.RequestContext requestContext, string controllerName)
         {
             IContactService contactService = new ContactService();
-            var controller = new HomeController(contactService);
+            var controller = new ContactBookController(contactService);
             return controller;
         }
         public System.Web.SessionState.SessionStateBehavior GetControllerSessionBehavior(

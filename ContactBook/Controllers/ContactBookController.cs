@@ -7,10 +7,10 @@ using System.Web.Mvc;
 
 namespace ContactBook.Controllers
 {
-    public class HomeController : Controller
+    public class ContactBookController : Controller
     {
         private readonly IContactService contactService;
-        public HomeController(IContactService iContactService)
+        public ContactBookController(IContactService iContactService)
         {
             contactService = iContactService;
         }

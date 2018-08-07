@@ -17,9 +17,9 @@
                 grid.Column("LastName", "Last Name"),
                 grid.Column("PhoneNumber", "Phone Number"),
                 grid.Column("EmailID", "Email ID"),
-                grid.Column("Edit", format: (item) => Html.ActionLink("Edit", "EditContact", "Home", new { id = item.ContactID }, null)),
-                grid.Column("Delete", format: (item) => Html.ActionLink("Delete", "DeleteContact", "Home", new { id = item.ContactID }, null)),
-                grid.Column("Active/InActive", format: (item) => Html.ActionLink("Active/InActive", "ActiveInactive", "Home", new { id = item.ContactID }, new { @class = "select" }))
+                grid.Column("Edit", format: (item) => Html.ActionLink("Edit", "EditContact", "ContactBook", new { id = item.ContactID }, null)),
+                grid.Column("Delete", format: (item) => Html.ActionLink("Delete", "DeleteContact", "ContactBook", new { id = item.ContactID }, null)),
+                grid.Column("Active/InActive", format: (item) => Html.ActionLink("Active/InActive", "ActiveInactive", "ContactBook", new { id = item.ContactID }, new { @class = "select" }))
             )
         )
     <script src="~/Scripts/jquery-1.10.2.min.js"></script>
@@ -49,7 +49,7 @@
                 Type:"GET",
                 ContentType: "application/json;charset=utf-8",
                 cache:false,
-                url:'@Url.Action("ActiveInactive", "Home")',
+                url:'@Url.Action("ActiveInactive", "ContactBook")',
                 data:{id:id},
                 success: function (isActive) {
                     checkActiveInactive(isActive);
