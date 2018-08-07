@@ -1,0 +1,180 @@
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\ApplicationInsights.config
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\csc.exe
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\System.Collections.Immutable.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\vbc.exe
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\VBCSCompiler.exe
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\roslyn\VBCSCompiler.exe.config
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\ContactBook.dll.config
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\ContactBook.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\ContactBook.pdb
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Antlr3.Runtime.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\EntityFramework.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\EntityFramework.SqlServer.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.Web.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.WindowsServer.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.ApplicationInsights.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Google.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Web.Infrastructure.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Newtonsoft.Json.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Owin.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Net.Http.Formatting.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Helpers.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Http.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Http.WebHost.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Mvc.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Optimization.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Razor.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.WebPages.Deployment.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.WebPages.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.WebPages.Razor.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\WebGrease.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.Web.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AI.WindowsServer.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.ApplicationInsights.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Helpers.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Mvc.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Optimization.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Razor.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.WebPages.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.WebPages.Deployment.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.WebPages.Razor.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Antlr3.Runtime.pdb
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Newtonsoft.Json.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Net.Http.Formatting.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Http.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\System.Web.Http.WebHost.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\EntityFramework.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\EntityFramework.SqlServer.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Google.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\obj\Debug\ContactBook.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\obj\Debug\ContactBook.pdb
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Dapper.dll
+c:\users\naman.khandelwal\documents\visual studio 2015\Projects\ContactBook\ContactBook\bin\Dapper.xml
+C:\Users\naman.khandelwal\Documents\Visual Studio 2015\Projects\ContactBook\ContactBook\obj\Debug\ContactBook.csprojResolveAssemblyReference.cache
+D:\Project\ContactBook\ContactBook\bin\ApplicationInsights.config
+D:\Project\ContactBook\ContactBook\bin\roslyn\csc.exe
+D:\Project\ContactBook\ContactBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\ContactBook\ContactBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\ContactBook\ContactBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\ContactBook\ContactBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\ContactBook\ContactBook\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\ContactBook\ContactBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\ContactBook\ContactBook\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\ContactBook\ContactBook\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\ContactBook\ContactBook\bin\roslyn\vbc.exe
+D:\Project\ContactBook\ContactBook\bin\roslyn\VBCSCompiler.exe
+D:\Project\ContactBook\ContactBook\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\ContactBook\ContactBook\bin\ContactBook.dll.config
+D:\Project\ContactBook\ContactBook\bin\ContactBook.dll
+D:\Project\ContactBook\ContactBook\bin\ContactBook.pdb
+D:\Project\ContactBook\ContactBook\bin\Antlr3.Runtime.dll
+D:\Project\ContactBook\ContactBook\bin\Dapper.dll
+D:\Project\ContactBook\ContactBook\bin\EntityFramework.dll
+D:\Project\ContactBook\ContactBook\bin\EntityFramework.SqlServer.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.Web.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.ApplicationInsights.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\ContactBook\ContactBook\bin\Newtonsoft.Json.dll
+D:\Project\ContactBook\ContactBook\bin\Owin.dll
+D:\Project\ContactBook\ContactBook\bin\System.Net.Http.Formatting.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.Helpers.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.Http.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.Http.WebHost.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.Mvc.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.Optimization.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.Razor.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.WebPages.Deployment.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.WebPages.dll
+D:\Project\ContactBook\ContactBook\bin\System.Web.WebPages.Razor.dll
+D:\Project\ContactBook\ContactBook\bin\WebGrease.dll
+D:\Project\ContactBook\ContactBook\bin\Dapper.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.Web.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.ApplicationInsights.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.Helpers.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.Mvc.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.Optimization.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.Razor.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.WebPages.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.WebPages.Deployment.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.WebPages.Razor.xml
+D:\Project\ContactBook\ContactBook\bin\Antlr3.Runtime.pdb
+D:\Project\ContactBook\ContactBook\bin\Newtonsoft.Json.xml
+D:\Project\ContactBook\ContactBook\bin\System.Net.Http.Formatting.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.Http.xml
+D:\Project\ContactBook\ContactBook\bin\System.Web.Http.WebHost.xml
+D:\Project\ContactBook\ContactBook\bin\EntityFramework.xml
+D:\Project\ContactBook\ContactBook\bin\EntityFramework.SqlServer.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\ContactBook\ContactBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\ContactBook\ContactBook\obj\Debug\ContactBook.csprojResolveAssemblyReference.cache
+D:\Project\ContactBook\ContactBook\obj\Debug\ContactBook.dll
+D:\Project\ContactBook\ContactBook\obj\Debug\ContactBook.pdb

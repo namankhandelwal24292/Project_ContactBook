@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ContactBook.ViewModel.ContactViewModel>
+@{
+    ViewBag.Title = "Contact List";
+    var grid = new WebGrid(source: Model, canPage: false);
+}
+<h3>Contact List</h3>
+<div style="overflow:auto">
+
+    @grid.GetHtml(
+        htmlAttributes: new { id = "contactGrid" },
+        tableStyle: "table table-responsive",
+
+        columns: grid.Columns
+            (
+                grid.Column("ContactId", "ContactID"),
+                grid.Column("FirstName", "First Name"),
+                grid.Column("LastName", "Last Name"),
+                grid.Column("PhoneNumber", "Phone Number"),
+                grid.Column("EmailID", "Email ID"),
+                grid.Column("Edit", format: (item) => Html.ActionLink("Edit", "EditContact", "Home", new { id = item.ContactID }, null)),
+                grid.Column("Delete", format: (item) => Html.ActionLink("Delete", "DeleteContact", "Home", new { id = item.ContactID }, null)),
+                grid.Column("Active/InActive", format: (item) => Html.ActionLink("Active/InActive", "ActiveInactive", "Home", new { id = item.ContactID }, new { @class = "select" }))
+            )
+        )
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+    <script type="text/javascript">
+
+        var count=@Model.Count();
+        var contacts = @Html.Raw(Json.Encode(@ViewBag.contactViewModel));
+        var row = $("#contactGrid").find("tr");
+
+        for (var i = 0; i < count; i++) {
+            if(!contacts[i].IsActive)
+            {
+                row.eq(i+1).find("td").eq(0).css("color", "red");
+                row.eq(i+1).find("td").eq(1).css("color", "red");
+                row.eq(i+1).find("td").eq(2).css("color", "red");
+                row.eq(i+1).find("td").eq(3).css("color", "red");
+                row.eq(i+1).find("td").eq(4).css("color", "red");
+                row.eq(i+1).find("td a:contains('Edit')").css("display", "none");
+                row.eq(i+1).find("td a:contains('Delete')").css("display", "none");
+            }
+        }
+        $("#contactGrid").on("click",".select", function () {
+            var row = $(this).closest("tr");
+            var id = row.find("td").eq(0).text();
+            $.ajax({
+                Type:"GET",
+                ContentType: "application/json;charset=utf-8",
+                cache:false,
+                url:'@Url.Action("ActiveInactive", "Home")',
+                data:{id:id},
+                success: function (isActive) {
+                    checkActiveInactive(isActive);
+                },
+            });
+            function checkActiveInactive(isActive)
+            {
+                if (isActive=="False")
+                {
+                    row.find("td").eq(0).css("color", "red");
+                    row.find("td").eq(1).css("color", "red");
+                    row.find("td").eq(2).css("color", "red");
+                    row.find("td").eq(3).css("color", "red");
+                    row.find("td").eq(4).css("color", "red");
+                    row.find("td a:contains('Edit')").css("display", "none");
+                    row.find("td a:contains('Delete')").css("display", "none");
+                }
+                else {
+                    row.find("td").eq(0).css("color", "black");
+                    row.find("td").eq(1).css("color", "black");
+                    row.find("td").eq(2).css("color", "black");
+                    row.find("td").eq(3).css("color", "black");
+                    row.find("td").eq(4).css("color", "black");
+                    row.find("td a:contains('Edit')").css("display", "inline");
+                    row.find("td a:contains('Delete')").css("display", "inline");
+                }
+            }
+            return false;
+        });
+    </script>
+
+</div>
